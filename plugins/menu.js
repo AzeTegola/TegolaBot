@@ -28,13 +28,12 @@ let prova = {
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }
-let text = `─⭓ *𝑨𝑷𝑶𝑺𝑻𝑶𝑳𝑰(𝐬𝐢𝐦𝐛𝐨𝐥𝐢)⇝𝐁Ꮻ𝐓|mənū*
+let text = `─⭓ *𝑨𝑷𝑶𝑺𝑻𝑶𝑳𝑰(𝑨✞︎)⇝𝐁Ꮻ𝐓|mənū*
 *ciao ${name} in base a quale dispositivo hai, esegui il comando!*
   ඬ ${usedPrefix}MENUANDROID
   ඬ ${usedPrefix}MENUIOS
   ඬ ${usedPrefix}NEWS
- ⇝ 𝑨𝑷𝑶𝑺𝑻𝑶𝑳𝑰 (𝐬𝐢𝐦𝐛𝐨𝐥𝐢)
-  `.trim() 
+ ⇝ 𝑨𝑷𝑶𝑺𝑻𝑶𝑳𝑰⇝ꪶ͢𝐀✞︎ꫂ'  `.trim() 
 conn.reply(m.chat, text, prova, m, false, )
 }
 handler.help = ['menu']
