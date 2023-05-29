@@ -39,7 +39,7 @@ let text = `
 └───────⭓
 
 ┌──⭓ *MENU '𝒎𝒊𝒏𝒊 𝒘𝒐𝒍𝒍𝒚'*
-|- fabri funziona senza uso
+|- wolly funziona senza uso
 |  di prefisso.
 |  per attivarlo:
 |⭔ ON: sveglia wolly
