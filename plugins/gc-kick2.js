@@ -6,7 +6,7 @@ if (m.mentionedJid.includes(conn.user.jid)) return
 let user = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted.sender
 let owr = m.chat.split`-`[0]
 await conn.groupParticipantsUpdate(m.chat, [user], 'remove')
-m.reply('*[❗𝐈𝐍𝐅𝐎❗]SUPER FABRI HA POLVERIZZATO IL COGLIONE *\@n* —◉ LA VITTIMA NON POTRA PIU DARE FASTIDIO*')   
+m.reply('*[❗𝐈𝐍𝐅𝐎❗]TEGOLA HA POLVERIZZATO IL COGLIONE *\@n* —◉ LA VITTIMA NON POTRA PIU DARE FASTIDIO*')   
 }
 handler.command = /^(kick2|via|sacar2)$/i
 handler.admin = true
