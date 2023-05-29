@@ -23,7 +23,7 @@ let speed = (neww - old).toFixed(5)
 let prova = {"key": {
 "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast","fromMe": false, "id": "Halo"
 }, "message": {
-"contactMessage": { displayName: '𝑴𝒐𝒐𝒏𝑪𝒍𝒐𝒖𝒅𝒔⇝ ꪶ͢𝑴☁️ꫂ ᵉᵈᶦᶻ ²⁰²³',
+"contactMessage": { displayName: '𝑨𝑷𝑶𝑺𝑻𝑶𝑳𝑰⇝ ꪶ͢𝐀✞︎ꫂ',
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }
@@ -48,12 +48,12 @@ let text = `
 │⭔ .bonk
 └───────⭓
 
-┌──⭓ *MENU 'FABRI'*
-|- fabri funziona senza uso
+┌──⭓ *MENU 'mini wolly'*
+|- mini wolly funziona senza uso
 |  di prefisso.
 |  per attivarlo:
-|⭔ ON: sveglia fabri 
-|⭔ OFF: dormi fabri 
+|⭔ ON: sveglia wolly 
+|⭔ OFF: dormi wolly
 └───────⭓
 
 ┌──⭓ *MENU 'RISPOSTA'*
