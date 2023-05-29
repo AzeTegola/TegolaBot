@@ -192,7 +192,7 @@ let text = `
 ════ •⊰❂⊱• ════ 
 
 ┌──⭓ 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐈𝐋 𝐁𝐎𝐓
-│⭔ .installa
+│⭔ .commandiplz
 └───✦✧✧𝐁Ꮻ𝐓 ✧✧✦ 
 `.trim() 
 conn.sendFile(m.chat, grup, 'errop.jpg', text, m, false, )
